@@ -71,6 +71,7 @@ foreach ($faqs as $faq) {
         margin: 0 auto;
     }
     h1 {
+        margin-top: 5rem;
         font-size: 24px;
         color: #3c4043
     }
